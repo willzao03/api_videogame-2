@@ -27,6 +27,7 @@ JSON
 
 
 📁 Estrutura do Projeto
+
 api2_videogame
 ├── src
 │   └── main
@@ -40,6 +41,7 @@ api2_videogame
 │               └── videogames.json
 ├── pom.xml
 └── README.md
+
 
 
 ▶️ Como Executar o Projeto
