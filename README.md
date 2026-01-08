@@ -25,6 +25,7 @@ REST API
 
 JSON
 
+
 📁 Estrutura do Projeto
 api2_videogame
 ├── src
@@ -39,6 +40,7 @@ api2_videogame
 │               └── videogames.json
 ├── pom.xml
 └── README.md
+
 
 ▶️ Como Executar o Projeto
 Pré-requisitos
