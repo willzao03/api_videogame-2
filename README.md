@@ -29,18 +29,18 @@ JSON
 📁 Estrutura do Projeto
 
 api2_videogame
-├── src
-│   └── main
-│       ├── java
-│       │   └── br.com.fecaf
-│       │       ├── controller
-│       │       ├── model
-│       │       └── Application.java
-│       └── resources
-│           └── data
-│               └── videogames.json
-├── pom.xml
-└── README.md
+src
+main
+java
+br.com.fecaf
+controller
+model
+Application.java
+resources
+data
+videogames.json
+pom.xml
+README.md
 
 
 
